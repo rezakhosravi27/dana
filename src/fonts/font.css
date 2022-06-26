@@ -1,0 +1,24 @@
+@font-face {
+    font-family: nazanin;
+    src: url('./fonts-b-yekan/IRNazanin.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: nazaninBold;
+    src: url('./fonts-b-yekan/IRNazaninBold.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: nazaninIrani;
+    src: url('./fonts-b-yekan/IRNazaninIrani.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: yekan;
+    src: url('./fonts-b-yekan/IRYekan.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: vazir;
+    src: url('./fonts-b-yekan/Vazir-Regular.ttf') format('opentype');
+}

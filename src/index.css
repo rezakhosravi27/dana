@@ -1,0 +1,6 @@
+@import url('./fonts/font.css');
+
+html, body {
+  margin: 0;
+  font-family: 'nazanin';
+}
